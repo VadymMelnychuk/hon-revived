@@ -940,7 +940,16 @@
                     "high": "Alta"
                 },
                 "name": "Nível de humidade"
-                            },
+            },
+            "probe_temperature": {
+                "name": "Temperatura da Sonda"
+            },
+            "steam_tank_level": {
+                "name": "Nível do Reservatório de Vapor"
+            },
+            "descaling_cycle_counter": {
+                "name": "Contador de Ciclos de Descalcificação"
+            },
             "current_electricity_used": {
                 "name": "Current Cycle Electricity"
             },
@@ -2034,6 +2043,18 @@
             "filter_replacement": {
                 "name": "Substituição do filtro"
             },
+            "temp_reached": {
+                "name": "Temperatura Atingida"
+            },
+            "turnspit": {
+                "name": "Espeto Rotativo"
+            },
+            "steam_active": {
+                "name": "Vapor Ativo"
+            },
+            "descaling_required": {
+                "name": "Descalcificação Necessária"
+            },
             "energy_saving": {
                 "name": "Modo Poupança de Energia"
             },
@@ -2109,6 +2130,9 @@
             },
             "my_zone_temp_sel": {
                 "name": "Temperatura alvo My Zone"
+            },
+            "probe_target_temperature": {
+                "name": "Temperatura Alvo da Sonda"
             }
         },
         "climate": {
